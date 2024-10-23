@@ -1,4 +1,4 @@
-#![allow(overflowing_literals)] //Suppression of overflowing literals for this module
+#![allow(overflowing_literals)]
 
 #[test]
 fn test_01() {
